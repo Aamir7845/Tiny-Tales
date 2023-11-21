@@ -34,7 +34,7 @@ export default function Profile() {
         
         <div className='bios'>
             <h3>Co-founder & CEO at TTT</h3><br></br>
-            <h3>https://www.instagram.com/jahnavi_pamuru/</h3><br></br>
+            <h3>https:/https://www.instagram.com/a_a_m_i_r_78/</h3><br></br>
         </div>
 
     </div>

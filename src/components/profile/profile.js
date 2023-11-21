@@ -33,14 +33,8 @@ export default function Profile() {
         </div>
         
         <div className='bios'>
-            <h3>Co-founder & CEO at TTT</h3>
-            <h4>link</h4>
-            <div className='like'>
-                <h5><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAzceR_3EeTW2Fvp1DMHMe5Yv0p79EPDIyQ&usqp=CAU'/>Like</h5>
-                <h5> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoa9JXbkv8AOdpRYa5qG-nHIfgQ6YLiNZusQ&usqp=CAU'/>Comment</h5>
-                <h5>View</h5>
-                <h5>like</h5>
-            </div>
+            <h3>Co-founder & CEO at TTT</h3><br></br>
+            <h3>https://www.instagram.com/jahnavi_pamuru/</h3><br></br>
         </div>
 
     </div>
